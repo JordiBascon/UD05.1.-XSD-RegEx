@@ -43,6 +43,12 @@ Fuente: [Clic Aquí](https://snov.io/knowledgebase/es/que-es-un-formato-de-direc
 
 ### `Número`
 
+Un número de telefono se define como un plan cerrado de 9 cifras, normalmente se agrupan en 3 grupos de 3 cifrás cada uno separados por espacios, es decir XXX XXX XXX.
+
+
+
+Fuente: [Clic Aquí](https://avance.digital.gob.es/es-es/servicios/numeracion/paginas/plan.aspx#:~:text=Se%20refiere%20exclusivamente%20a%20los,2004%2C%20de%2010%20de%20diciembre.).
+
 ### `Código Postal`
 
 Actualmente el territorio español se divide en 11.752 códigos postales.
@@ -57,5 +63,7 @@ Actualmente el territorio español se divide en 11.752 códigos postales.
 - La quinta cifra refresenta el reparto
 
 `Dato Curioso: en cada capital de provincia existen códigos reservados para usos especiales como correos (070) o correspondencia de organismos oficiales(071)-.`
+
+Fuente: [Clic Aquí](https://es.wikipedia.org/wiki/C%C3%B3digo_postal_de_Espa%C3%B1a).
 
 ### `Contraseña`
