@@ -17,11 +17,10 @@ David2001      | david2001@gmail.com         | +34 621 654 788 | 41611         |
 
 PERMITE        |    NO PERMITE     | 
 ---------------|-----------------------------|
-ManuelBas      | manuelbascon98@gmail.com    | 
-JoaquinRP      | joaquinrap1998@gmail.com    | 
-MariaFuentes   | mariafuentes1928@gmail.com  | 
-IsaMariPB      | isabelmaria2@gmail.com      | 
-David2001      | david2001@gmail.com         | 
+Letras [a-z]   | . al principio y al final    | 
+Números [0-9]  | . consecutivos ni otros caracteres especiales   | 
+Caracteres especiales [_ , - , .]   | Los caracteres especiales deben ir seguidos de más letras o números  | 
+
 
 Fuente: [Clic Aquí](https://snov.io/knowledgebase/es/que-es-un-formato-de-direccion-de-correo-electronico-valido/).
 
