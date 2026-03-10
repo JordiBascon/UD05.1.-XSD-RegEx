@@ -4,11 +4,11 @@
 
 Nombre Usuario |     Correo Electrónico      | Número Teléfono | Código Postal | Contraseña
 ---------------|-----------------------------|-----------------|---------------|------------
-ManuelBas      | manuelbascon98@gmail.com    | +34 646 092 134 | 41610         | mbf2424
-JoaquinRP      | joaquinrap1998@gmail.com    | +34 635 789 954 | 41000         | jrp1243
-MariaFuentes   | mariafuentes1928@gmail.com  | +34 674 345 126 | 41611         | 986217M
-IsaMariPB      | isabelmaria2@gmail.com      | +34 689 234 523 | 41610         | im19231
-David2001      | david2001@gmail.com         | +34 621 654 788 | 41611         | dvpteq9
+ManuelBas      | manuelbascon98@gmail.com    | +34 646 092 134 | 41610         | Manuel214
+JoaquinRP      | joaquinrap1998@gmail.com    | +34 635 789 954 | 41000         | Joaquin09
+MariaFuentes   | mariafuentes1928@gmail.com  | +34 674 345 126 | 41611         | MAfu96429
+IsaMariPB      | isabelmaria2@gmail.com      | +34 689 234 523 | 41610         | Ma1234567
+David2001      | david2001@gmail.com         | +34 621 654 788 | 41611         | David2001
 
 ## 2.- Validaciones de campos
 ### `Usuario`
