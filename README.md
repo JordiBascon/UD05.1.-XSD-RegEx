@@ -13,6 +13,16 @@ David2001      | david2001@gmail.com         | +34 621 654 788 | 41611         |
 ## 2.- Validaciones de campos
 ### `Usuario`
 
+`Sintaxis:` `usuario@dominio`
+
+PERMITE        |    NO PERMITE     | 
+---------------|-----------------------------|
+ManuelBas      | manuelbascon98@gmail.com    | 
+JoaquinRP      | joaquinrap1998@gmail.com    | 
+MariaFuentes   | mariafuentes1928@gmail.com  | 
+IsaMariPB      | isabelmaria2@gmail.com      | 
+David2001      | david2001@gmail.com         | 
+
 ### `Correo`
 
 ### `Número`
