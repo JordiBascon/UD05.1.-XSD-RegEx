@@ -23,6 +23,8 @@ MariaFuentes   | mariafuentes1928@gmail.com  |
 IsaMariPB      | isabelmaria2@gmail.com      | 
 David2001      | david2001@gmail.com         | 
 
+Fuente: [Clic Aquí](https://snov.io/knowledgebase/es/que-es-un-formato-de-direccion-de-correo-electronico-valido/).
+
 ### `Correo`
 
 ### `Número`
