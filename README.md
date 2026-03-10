@@ -1,4 +1,4 @@
-# AF-Individual-UD05.1.-XSD-RegEx
+# UD05.1.-XSD-RegEx
 
 ## 1.- Tabla organizativa del documento XML:
 ```
