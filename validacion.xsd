@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+  <xs:element name="registro">
+      <xs:complexType>
+        <xs:sequence>
+          <xs:element name="usuario" maxOccurs="unbounded" minOccurs="0">
+            <xs:complexType>
+              <xs:sequence>
+<!-- SOLO PUEDE CONTEMER LETRAS (MAYUS Y MINUS), NÚMEROS, GIONES Y GUIONES BAJOS Y DEBE SER MAYOR A 4 DÍGITOS -->
+                <xs:element name="nombreUsuario">
+                  <xs:simpleType>
+                    <xs:restriction base="xs:string">
+                      <xs:pattern value="[a-zA-Z0-9\-_]{4,}"/>
+                    </xs:restriction>
+                  </xs:simpleType>
+                </xs:element>
+<!-- DEBE ESTAR FORMADO POR UN USUARIO, EL @ Y UN DOMINIO -->
+              <xs:element name="correo">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:pattern value="\S+@\S+\.\S+"/>
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+<!-- DEBE TENER 3 GRUPOS DE 3 CIFRAS CADA UNO ENTRE 0 Y 9 -->
+              <xs:element name="telefono">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:pattern value="[0-9]{3} [0-9]{3} [0-9]{3}"/>
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+<!-- (0[1-9]|[1-4][0-9]|5[0-2]) VALIDA QUE LOS DOS PRIMEROS NÚMEROS ESTÉN ENTRE EL 01 Y EL 52 -->
+<!-- [0-9]{3} DEBE TENER 3 DÍGITOS MÁS ENTRE 0 Y 9 -->
+              <xs:element name="codigoPostal">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:pattern value="(0[1-9]|[1-4][0-9]|5[0-2])[0-9]{3}"/>
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+<!-- PARA LA CONTRASEÑA ME DABA UN ERROR EL CUÁL BUSQUÉ Y ME DIJO QUE ERA UNA MEJOR FORMA DE PONERLA POR RESTRICCIONES MÚLTIPLES -->
+              <xs:element name="contrasena">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:pattern value=".*[A-Z].*"/>
+                    <xs:pattern value=".*[a-z].*"/>
+                    <xs:pattern value=".*[0-9].*"/>
+                    <xs:minLength value="9"/>
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+
+            </xs:sequence>
+            <xs:attribute name="id" type="xs:positiveInteger" use="required"/>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+</xs:schema>

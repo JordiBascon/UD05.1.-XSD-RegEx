@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<registro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:noNamespaceSchemaLocation="validacion.xsd">
+    <usuario id="1">
+        <nombreUsuario>ManuelBas</nombreUsuario>
+        <correo>manuelbascon98@gmail.com</correo>
+        <telefono>646 092 134</telefono>
+        <codigoPostal>41610</codigoPostal>
+        <contrasena> Manuel214</contrasena>
+    </usuario>
+    <usuario id="2">
+        <nombreUsuario>JoaquinRP</nombreUsuario>
+        <correo>joaquinrap1998@gmail.com</correo>
+        <telefono>635 789 954</telefono>
+        <codigoPostal>41000</codigoPostal>
+        <contrasena>Joaquin09</contrasena>
+    </usuario>
+    <usuario id="3">
+        <nombreUsuario>MariaFuentes</nombreUsuario>
+        <correo>mariafuentes1928@gmail.com</correo>
+        <telefono>674 345 126</telefono>
+        <codigoPostal>41611</codigoPostal>
+        <contrasena>MAfu96429</contrasena>
+    </usuario>
+    <usuario id="4">
+        <nombreUsuario>IsaMariPB</nombreUsuario>
+        <correo>isabelmaria2@gmail.com</correo>
+        <telefono>689 234 523</telefono>
+        <codigoPostal>41610</codigoPostal>
+        <contrasena>Ma1234567</contrasena>
+    </usuario>
+    <usuario id="5">
+        <nombreUsuario>David2001</nombreUsuario>
+        <correo>david2001@gmail.com</correo>
+        <telefono>621 654 788</telefono>
+        <codigoPostal>41611</codigoPostal>
+        <contrasena>David2001</contrasena>
+    </usuario>
+</registro>
