@@ -45,4 +45,17 @@ Fuente: [Clic Aquí](https://snov.io/knowledgebase/es/que-es-un-formato-de-direc
 
 ### `Código Postal`
 
+Actualmente el territorio español se divide en 11.752 códigos postales.
+- Las dos primeras cifras hacen referencia a la prinvia por orden alfabético. (41(Sevilla), 21(Huelva)).
+  
+`Dato Curioso: antes Ceuta y Melilla  tenían los códigos postales de Cádiz (11) y Málaga (29) respectivamente, actualmente tienen los suyos propios.`
+
+<img width="682" height="490" alt="image" src="https://github.com/user-attachments/assets/6f791d9a-49f8-4cab-bdf5-bd54d481f4dd" />
+
+- La tercera cifra indica el encaminamiento.
+- La cuarta cifra representa la ruta
+- La quinta cifra refresenta el reparto
+
+`Dato Curioso: en cada capital de provincia existen códigos reservados para usos especiales como correos (070) o correspondencia de organismos oficiales(071)-.`
+
 ### `Contraseña`
