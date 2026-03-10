@@ -11,12 +11,12 @@ IsaMariPB      | isabelmaria2@gmail.com      | +34 689 234 523 | 41610         |
 David2001      | david2001@gmail.com         | +34 621 654 788 | 41611         | dvpteq9
 
 ## 2.- Validaciones de campos
-`Usuario ->`
+### `Usuario`
 
-`Correo ->`
+### `Correo`
 
-`Número ->`
+### `Número`
 
-`Código Postal ->`
+### `Código Postal`
 
-`Contraseña ->`
+### `Contraseña`
