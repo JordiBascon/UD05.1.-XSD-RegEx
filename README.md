@@ -67,3 +67,13 @@ Actualmente el territorio español se divide en 11.752 códigos postales.
 Fuente: [Clic Aquí](https://es.wikipedia.org/wiki/C%C3%B3digo_postal_de_Espa%C3%B1a).
 
 ### `Contraseña`
+
+Para que una contraseña sea válida y segurda debe:
+- Tener más de 8 caracteres
+- Contener una letra mayúscula como mínimo
+- Contener una letra minúscula como mínimo
+- Contener un número como mínimo
+
+Por Ejemplo: ContraValida1234
+
+Fuente: [Clic Aquí](https://www.codurance.com/es/katas/validacion-contrasena).
