@@ -15,12 +15,21 @@ David2001      | david2001@gmail.com         | +34 621 654 788 | 41611         |
 
 `Sintaxis:` `usuario@dominio`
 
+`NOMBRE DE USUARIO`
 PERMITE        |    NO PERMITE     | 
 ---------------|-----------------------------|
 Letras [a-z]   | . al principio y al final    | 
 Números [0-9]  | . consecutivos ni otros caracteres especiales   | 
 Caracteres especiales [_ , - , .]   | Los caracteres especiales deben ir seguidos de más letras o números  | 
 
+`NOMBRE DE DOMINIO`
+- Consta de una o más partes separadas por un punto (dominio.com)
+- La segunda parte debe tener dos o más caracteres (.com, .org)
+
+  PERMITE
+- Letras [a-z]
+- Números [0-9]
+- Guionmes [-] excepto al principio y al final
 
 Fuente: [Clic Aquí](https://snov.io/knowledgebase/es/que-es-un-formato-de-direccion-de-correo-electronico-valido/).
 
