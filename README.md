@@ -13,6 +13,14 @@ David2001      | david2001@gmail.com         | +34 621 654 788 | 41611         |
 ## 2.- Validaciones de campos
 ### `Usuario`
 
+Para que un nombre de usuario pueda considerarse correcto y valido debe:
+- Tener al menos 4 caracteres.
+- Si tiene caracteres especiales solo puede tener caracteres alfanuméricos ASCII o guión (-) o guión bajo (_).
+
+Fuente: [Clic Aquí](https://kb.mailfence.com/es/kb/hay-algun-requisito-para-que-el-nombre-de-usuario-sea-valido/).
+
+### `Correo`
+
 `Sintaxis:` `usuario@dominio`
 
 `NOMBRE DE USUARIO`
@@ -32,8 +40,6 @@ Caracteres especiales [_ , - , .]   | Los caracteres especiales deben ir seguido
 - Guionmes [-] excepto al principio y al final
 
 Fuente: [Clic Aquí](https://snov.io/knowledgebase/es/que-es-un-formato-de-direccion-de-correo-electronico-valido/).
-
-### `Correo`
 
 ### `Número`
 
